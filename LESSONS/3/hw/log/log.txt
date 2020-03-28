@@ -1,0 +1,69 @@
+
+    
+
+        *** round *** 
+
+        User: Камень;
+
+        Terminator: Ножницы;
+
+        Winner: User;
+
+        time: March 28 2020, 12:37:24
+
+        *** end ***
+
+    
+
+    
+    
+
+        *** round *** 
+
+        User: Ножницы;
+
+        Terminator: Камень;
+
+        Winner: Terminator;
+
+        time: March 28 2020, 12:37:51
+
+        *** end ***
+
+    
+
+    
+    
+
+        *** round *** 
+
+        User: Бумага;
+
+        Terminator: Бумага;
+
+        Winner: Both;
+
+        time: March 28 2020, 12:37:57
+
+        *** end ***
+
+    
+
+    
+    
+
+        *** round *** 
+
+        User: Камень;
+
+        Terminator: Бумага;
+
+        Winner: Terminator;
+
+        time: March 28 2020, 12:40:58
+
+        *** end ***
+
+    
+
+    
