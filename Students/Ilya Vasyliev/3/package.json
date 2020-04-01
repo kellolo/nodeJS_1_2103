@@ -1,0 +1,24 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hw": "node hw",
+    "serve": "nodemon server/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "prompt-radio": "^1.2.1"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.5",
+    "nodemon": "^2.0.2"
+  }
+}
