@@ -1,0 +1,25 @@
+{
+  "name": "pr_cli",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "api": "nodemon server/server"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-router": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
